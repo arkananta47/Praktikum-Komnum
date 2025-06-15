@@ -1,26 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/V7fOtAk7)
 |    NRP     |      Name      |
 | :--------: | :------------: |
-| 5025221000 | Student 1 Name |
-| 5025221000 | Student 2 Name |
-| 5025221000 | Student 3 Name |
+| 5025241147 | Lucky Himawan Prasetya |
+| 5025241161 | Muh. Aqil Alqadri Syahid |
+| 5025241177 | Hosea Felix Sanjaya |
 
-# Praktikum Modul 4 _(Module 4 Lab Work)_
+# Praktikum Komputasi Numerik _(Reports)_
 
 </div>
 
-### Daftar Soal _(Task List)_
+### List of Codes
 
-- [Task 1 - FUSecure](/task-1/)
+- [Code-1 ~ Regula Falsi](/praktikum1.py/)
 
-- [Task 2 - LawakFS++](/task-2/)
-
-- [Task 3 - Drama Troll](/task-3/)
-
-- [Task 4 - LilHabOS](/task-4/)
-
-### Laporan Resmi Praktikum Modul 4 _(Module 4 Lab Work Report)_
-
-Tulis laporan resmi di sini!
-
-_Write your lab work report here!_
+- [Code-2 ~ Trapezoidal](/praktikum2.py/)
