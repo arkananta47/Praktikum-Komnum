@@ -14,6 +14,6 @@
 
 - [Code-2 ~ Trapezoidal](/praktikum2.py/)
 
-- [Report #1](/LAPORANPRAKTIKUM1KOMNUM.pdf/)
+- [Report #1](/LAPORAN PRAKTIKUM 1 KOMNUM.pdf/)
 
-- [Report #2](/LAPORANPRAKTIKUM2KOMNUM.pdf/)
+- [Report #2](/LAPORAN PRAKTIKUM 2 KOMNUM.pdf/)
