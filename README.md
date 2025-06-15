@@ -13,3 +13,7 @@
 - [Code-1 ~ Regula Falsi](/praktikum1.py/)
 
 - [Code-2 ~ Trapezoidal](/praktikum2.py/)
+
+- [Report #1](/LAPORANPRAKTIKUM1KOMNUM.pdf/)
+
+- [Report #2](/LAPORANPRAKTIKUM2KOMNUM.pdf/)
